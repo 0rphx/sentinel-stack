@@ -1,3 +1,4 @@
+
 # TaskFlow
 
 TaskFlow is a small task tracker. Users register, log in, and manage their
@@ -103,4 +104,4 @@ web app. Some natural next steps:
 7. Add monitoring (e.g. Prometheus + Grafana) and look at what the metrics
    look like under load.
 8. Deliberately break things — kill a pod, use a wrong DB password, delete
-   the database's storage — and see what actually happens.
+   the database's storage — and see what actually happens
